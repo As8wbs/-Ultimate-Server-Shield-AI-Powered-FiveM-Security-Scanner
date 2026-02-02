@@ -25,11 +25,17 @@ Our intuitive interface allows for instant action with a simple Right-Click on a
 💳 Pricing & Maintenance
 To ensure your security definitions stay ahead of the latest exploits, we offer a subscription-based model for continuous updates:
  * Initial Purchase: $24.99 (Includes the first full month).
+ * 
  * Monthly Subscription: $5.00 (Covers continuous AI model training, new vulnerability definitions, and premium support).
+ * 
 🛒 How to Purchase
-We support flexible payment options to accommodate global users, including Cryptocurrency (USDT/BTC) and Payoneer.
+We support flexible payment options to accommodate global users, including Cryptocurrency (USDT/BTC/and another) and Payoneer.
+
 To purchase your license and receive the tool, please join our official Discord and open a Security Ticket:
+
 📢 Join our Discord: https://discord.gg/kWRmU6UAy7
+
+
 ⚙️ Technical Information
 | Feature | Details |
 |---|---|
